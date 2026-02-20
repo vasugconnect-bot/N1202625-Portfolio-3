@@ -57,7 +57,7 @@ def generate_launch_description():
         ),
         launch_arguments={
             "use_sim_time": "True",
-            "params_file": "/home/ntu-user/ros2_ws/src/ntu_robotsim_octomap/ntu_robotsim_octomap/config/nav2_octomap.yaml"
+            "params_file": "/home/ntu-user/ros2_ws/src/ntu_robotsim_octomap/ntu_robotsim_octomap/config/nav2/nav2_octomap_params.yaml"
         }.items()
     )
 
